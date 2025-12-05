@@ -65,7 +65,7 @@ body {
 }
 
 .student-page{
-    /* background-color: black; */
+    
     padding: 30px 20px;
     text-align: center;
     display: flex;
@@ -86,9 +86,6 @@ body {
 .page3{
     height:15vh ;
     width: 100vw;
-    /* text-align: center;
-    display: flex;
-    justify-content: center; */
     background-color: black;
 }
 
